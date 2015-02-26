@@ -44,13 +44,13 @@ Gustavo de Souza Machado - 125750 <hr>
     Listar Contas a Pagar <br>
     Listar Contas a Receber <hr>
     
- Cileia 
-  web
-    Manter fornecedores
-    Emitir relatório de conta a pagar
-    mitir relatório de conta a receber13:46
-  Mobile
-    Listar clientes
-    Listar fornecedores
-    Listar empres
+ Cileia <br>
+  web <br>
+    Manter fornecedores <br>
+    Emitir relatório de conta a pagar <br>
+    mitir relatório de conta a receber <br>
+  Mobile <br>
+    Listar clientes <br>
+    Listar fornecedores <br>
+    Listar empresas <br>
 
